@@ -1,7 +1,7 @@
 # seleniumFramework
 Selenium framework project using Java , Maven , TestNG and POM.
 
-And we are using BDD and TDD frameworks in this project.
+And I'm using BDD and TDD frameworks in this project.
 
 # Tech stach
 - Java.
